@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f59f9bb4-f39b-46a7-94b3-38f9265e75c1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="registration: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="registration: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="users: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpServers">
+    <servers>
+      <server host="wordpress" id="5c0068ab-bb06-4342-99f5-7f559902931d" name="wordpress" port="8890" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1Ut2cH8Sd43icZ1qpkDp9ZvP3QM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="inlay.hints.PHP" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@31926f2" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f59f9bb4-f39b-46a7-94b3-38f9265e75c1" name="Default Changelist" comment="" />
+      <created>1576161648912</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576161648912</updated>
+      <workItem from="1576161650426" duration="10782000" />
+      <workItem from="1576318913917" duration="14452000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1076" y="191" key="#PHP" timestamp="1576161970257">
+      <screen x="0" y="23" width="2560" height="1294" />
+    </state>
+    <state x="1076" y="191" key="#PHP/0.23.2560.1294@0.23.2560.1294" timestamp="1576161970257" />
+    <state x="1450" y="379" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576167070677">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1450" y="379" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1576167070677" />
+    <state width="1018" height="344" key="GridCell.Tab.0.bottom" timestamp="1576484704326">
+      <screen x="0" y="0" width="2560" height="1323" />
+    </state>
+    <state width="1018" height="344" key="GridCell.Tab.0.bottom/0.0.2560.1323@0.0.2560.1323" timestamp="1576484704326" />
+    <state width="686" height="141" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1576344491932" />
+    <state width="1018" height="344" key="GridCell.Tab.0.center" timestamp="1576484704324">
+      <screen x="0" y="0" width="2560" height="1323" />
+    </state>
+    <state width="1018" height="344" key="GridCell.Tab.0.center/0.0.2560.1323@0.0.2560.1323" timestamp="1576484704324" />
+    <state width="686" height="141" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1576344491930" />
+    <state width="1018" height="344" key="GridCell.Tab.0.left" timestamp="1576484704322">
+      <screen x="0" y="0" width="2560" height="1323" />
+    </state>
+    <state width="1018" height="344" key="GridCell.Tab.0.left/0.0.2560.1323@0.0.2560.1323" timestamp="1576484704322" />
+    <state width="686" height="141" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1576344491929" />
+    <state width="1018" height="344" key="GridCell.Tab.0.right" timestamp="1576484704325">
+      <screen x="0" y="0" width="2560" height="1323" />
+    </state>
+    <state width="1018" height="344" key="GridCell.Tab.0.right/0.0.2560.1323@0.0.2560.1323" timestamp="1576484704325" />
+    <state width="686" height="141" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1576344491931" />
+    <state width="1018" height="344" key="GridCell.Tab.1.bottom" timestamp="1576344135742">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1018" height="344" key="GridCell.Tab.1.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1576344135742" />
+    <state width="1018" height="344" key="GridCell.Tab.1.center" timestamp="1576344135741">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1018" height="344" key="GridCell.Tab.1.center/0.0.2560.1440@0.0.2560.1440" timestamp="1576344135741" />
+    <state width="1018" height="344" key="GridCell.Tab.1.left" timestamp="1576344135740">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1018" height="344" key="GridCell.Tab.1.left/0.0.2560.1440@0.0.2560.1440" timestamp="1576344135740" />
+    <state width="1018" height="344" key="GridCell.Tab.1.right" timestamp="1576344135741">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1018" height="344" key="GridCell.Tab.1.right/0.0.2560.1440@0.0.2560.1440" timestamp="1576344135741" />
+    <state width="1018" height="344" key="GridCell.Tab.2.bottom" timestamp="1576344135744">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1018" height="344" key="GridCell.Tab.2.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1576344135744" />
+    <state width="1018" height="344" key="GridCell.Tab.2.center" timestamp="1576344135743">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1018" height="344" key="GridCell.Tab.2.center/0.0.2560.1440@0.0.2560.1440" timestamp="1576344135743" />
+    <state width="1018" height="344" key="GridCell.Tab.2.left" timestamp="1576344135742">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1018" height="344" key="GridCell.Tab.2.left/0.0.2560.1440@0.0.2560.1440" timestamp="1576344135742" />
+    <state width="1018" height="344" key="GridCell.Tab.2.right" timestamp="1576344135743">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1018" height="344" key="GridCell.Tab.2.right/0.0.2560.1440@0.0.2560.1440" timestamp="1576344135743" />
+    <state x="1231" y="662" key="NewPhpFileDialog" timestamp="1576419883028">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1231" y="662" key="NewPhpFileDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1576419883028" />
+    <state x="1231" y="618" key="NewPhpFileDialog/0.23.2560.1294@0.23.2560.1294" timestamp="1576162883969" />
+    <state x="1250" y="271" key="SettingsEditor" timestamp="1576164611843">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1250" y="271" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1576164611843" />
+    <state x="1606" y="495" width="487" height="445" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1576167516539">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1606" y="495" width="487" height="445" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1576167516539" />
+    <state x="1159" y="276" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1576340981812">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1159" y="276" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1576340981812" />
+    <state x="1149" y="467" key="com.intellij.ide.util.TipDialog" timestamp="1576318911542">
+      <screen x="0" y="23" width="2560" height="1300" />
+    </state>
+    <state x="1149" y="467" key="com.intellij.ide.util.TipDialog/0.23.2560.1300@0.23.2560.1300" timestamp="1576318911542" />
+    <state x="1010" y="292" width="838" height="1149" key="search.everywhere.popup" timestamp="1576337198504">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1010" y="292" width="838" height="1149" key="search.everywhere.popup/0.0.2560.1440@0.0.2560.1440" timestamp="1576337198504" />
+    <state x="1010" y="285" width="838" height="1032" key="search.everywhere.popup/0.23.2560.1294@0.23.2560.1294" timestamp="1576161685982" />
+  </component>
+</project>
