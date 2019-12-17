@@ -5,11 +5,13 @@
         echo "<input type=\"button\" onclick=\"window.location='php/logout.php'\" value=\"Logout\"></input>";
     }else{
         echo '
+
     <h2>Login form</h2>
     <form action="php/login.php" method="POST" id="login">
         <input type="text" placeholder="Your login or email" name="user_log"><br><br>
         <input type="password" placeholder="Your password" name="pwd_log"><br><br>
-        <button value="login" form="login" type="submit">Login</button>
+        <button value="login" form="login" typ
+        e="submit">Login</button>
     </form>
     <br><br>
     <h2>Register form</h2>
